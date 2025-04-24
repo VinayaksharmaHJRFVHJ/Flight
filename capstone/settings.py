@@ -29,6 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'flight-web-app.herokuapp.com',
+    '13.61.196.49','*'
 ]
 
 
